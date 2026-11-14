@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.0 (2026-11-14)
+
+### Features
+
+- Merge pull request #1 from johanflint/feature/install-as-a-service
+
 ## v0.3.0 (2026-11-05)
 
 ### Features
